@@ -1,4 +1,4 @@
-# Canal Agilizei - Pair Testing #02 - Testes de API com Cypress
+# Canal Agilizei - Testes de API com Cypress
 
 [Pair Testing #02 - Testes de API com Cypress](https://youtu.be/rbObfNh2bno)
 
